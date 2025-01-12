@@ -1,8 +1,11 @@
 # TokenQuest-Maze-Runne : C# Unity Game using the Wax Blockchain and AI
 
+![Screenshot (4)](https://github.com/user-attachments/assets/7a755878-0173-474c-9863-308c2af0a8e4)
 
 ## 🎮 Pac-Maze NFT Adventure 🎮
 Welcome to Pac-Maze NFT Adventure, a 2D Pac-Man-style maze game developed in Unity with exciting blockchain and NFT integration using the WAX blockchain! Whether you're a Unity enthusiast, a blockchain explorer, or someone eager to dive into game development, this project has something for you. 🚀
+
+![Screenshot (6)](https://github.com/user-attachments/assets/b3808e5a-92ea-4afc-befe-5128384441e0)
 
 ## 🌟 What is Pac-Maze NFT Adventure?
 Pac-Maze NFT Adventure is more than just a classic maze game. It's a next-level gaming experience where:
@@ -19,6 +22,15 @@ This project combines traditional game development with the modern world of bloc
 
 
 ### ![player_progression](https://github.com/user-attachments/assets/a6eae766-00aa-4317-9a51-e4f68506cad5)
+
+### ![Screenshot (7)](https://github.com/user-attachments/assets/df3d05c4-d674-432e-8da2-02ce8bfa957c)
+
+
+### ![Screenshot (8)](https://github.com/user-attachments/assets/aa60165a-c1a9-400e-bdfe-cf4ae281035c)
+
+### ![Screenshot (10)](https://github.com/user-attachments/assets/28383448-cf52-4f90-ad41-8c1707b0fb9c)
+
+
 
 ## 🛠️ Features
 ### 2D Maze Gameplay: Classic Pac-Man vibes with a modern twist.
